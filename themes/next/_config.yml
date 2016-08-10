@@ -21,7 +21,6 @@ rss:
 # Tips: Before you open this tag, remeber set up your URL in hexo _config.yml ( ex. url: http://yourdomain.com )
 canonical: true
 
-
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -176,14 +175,13 @@ sidebar:
 
 # Blogrolls
 link_title: 友情链接
+links_layout: inline
 links:
    ltaoo: https://ltaoo.github.io/
 #links_layout: block
-#links_layout: inline
+
 #links:
   #Title: http://example.com/
-
-
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
@@ -242,7 +240,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+#duoshuo_shortname: 
 
 # Disqus
 #disqus_shortname:
