@@ -80,19 +80,19 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: Monda
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family:
+    family: Monda
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Monda
 
   # Font settings for Logo
   # Fallback to `global` font settings.
@@ -105,7 +105,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Monda
 
 
 
@@ -172,12 +172,14 @@ sidebar:
   #display: hide
   #display: remove
 
-
+#bruceBlog: https://brucelinsite.wordpress.com/
 # Blogrolls
 link_title: 友情链接
 links_layout: inline
 links:
    ltaoo: https://ltaoo.github.io/
+   云雾: http://yohnz.github.com/
+   Coder-Gao: codergao.cn 
 #links_layout: block
 
 #links:
@@ -240,7 +242,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname: 
+duoshuo_shortname: chuhan
 
 # Disqus
 #disqus_shortname:
@@ -275,9 +277,9 @@ mathjax:
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
+  admin_enable: true
+  user_id: "6317246749018686000"
+  admin_nickname: "博主大人"
 
 
 # Facebook SDK Support.
@@ -295,6 +297,11 @@ facebook_sdk:
 facebook_comments_plugin:
   enable: false
   num_of_posts: 10
+
+# Donate 文章末尾显示打赏按钮
+reward_comment: 帅的人已经打赏~！
+wechatpay: https://chuhanan.github.io/wechatpay.png
+alipay: https://chuhanan.github.io/alipay.png
 
 
 # Show number of visitors to each article.
