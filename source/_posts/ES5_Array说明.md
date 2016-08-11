@@ -34,7 +34,7 @@ alert(count);   //3
 var item = colors.pop(); //pop方法删除数组的最后一项
 alert(item);             //yellow ,说明之后返回值是删除的那一项
 ```
-- 3.数组的队列方法
+3.数组的队列方法
 ``` js
 var  colors = ["red","black"];
 var item =  colors.unshift("white");  //white,并且数组的长度加1
