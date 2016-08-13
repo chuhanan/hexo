@@ -5,8 +5,9 @@ comments: false
 ---
 
 ## 我的个人资料
-- **Email: 384840951@qq.com **
+- ** Email: 384840951@qq.com **
 
+## [个人简历](https://chuhanan.github.io/2016/08/13/chuhan_resume/) 
 -------
 ## 我的收藏夹
 
