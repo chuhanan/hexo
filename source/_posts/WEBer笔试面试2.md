@@ -2,7 +2,7 @@
 title: 前端笔试面试(二) 
 date: 2016年8月17日
 categories: 
-     - 笔试面试   
+     - 前端   
 toc: true  
 ---
 

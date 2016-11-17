@@ -2,7 +2,7 @@
 title: React基础知识详细_ES6版
 date: 2016年8月13日
 categories: 
-     - React   
+     - JS   
 toc: true
 tags: 
      - React
